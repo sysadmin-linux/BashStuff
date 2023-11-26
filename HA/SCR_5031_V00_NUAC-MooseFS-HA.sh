@@ -3,6 +3,9 @@
 # Description : MooseFS HA Script
 # Author : razique.mahroua@gmail.com
 # Current version : Version 00
+#
+# zM!
+#
 
 # 		Revision note    
 # V00 : Initial version
